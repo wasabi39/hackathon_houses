@@ -1,6 +1,8 @@
 # Danish Property Price Prediction Project
 This repository contains the code and data used for a machine learning project focused on predicting property prices in Denmark. This project was conducted as part of a machine learning competition, which I won using an XGBoost model. The project demonstrates advanced feature engineering, model selection, and performance optimization techniques.
 
+Please note that unlike my other projects, this project only consisted of *training* a good model - and not developing the infrastructure for using the model. After the competition, I did however contribute with my results to the project https://github.com/simonamtoft/ValuAItion.
+
 # Project Overview
 In this competition, contestants aimed to improve upon the Danish Property Assessment Authority's property price valuations. The dataset consists 150,000 rows of detailed property characteristics and market data, which was used to develop a highly accurate model for price prediction. My final solution achieved first place among 17 participants, including data scientists, machine learning engineers, and software developers. The competition was hosted by Resights and the prize was a bottle of fine gin.
 
